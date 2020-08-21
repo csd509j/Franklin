@@ -217,7 +217,7 @@ h2 {
 //##
 #sidebar-first {
 	h2, h4 {
-    	background: #000;
+    	background: $brand-secondary;
     }
     h2 {
 	    a {
@@ -242,14 +242,14 @@ h2 {
 //##
 .post-type-archive-news, .page-template-page-calendar {
 	.bg-primary {
-		background-color: #000 !important;
+		background-color: #3C3C3C !important;
 		.text-white {
 			color: white !important;
 		}
 	}
 }
 #news-header.bg-primary {
-	background-color: #000 !important;
+	background-color: #3C3C3C !important;
 }
 
 
